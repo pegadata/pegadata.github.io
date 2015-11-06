@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grayscale</title>
+    <title>Pegadata</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://example.github.io/</link>
-    <atom:link href="https://example.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Nov 2015 17:41:39 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2015 17:41:39 +0800</lastBuildDate>
+    <link>https://pegadata.github.io/</link>
+    <atom:link href="https://pegadata.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Nov 2015 17:52:00 +0800</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2015 17:52:00 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 05 Nov 2015 19:51:42 +0800</pubDate>
-        <link>https://example.github.io/jekyll/update/2015/11/05/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://example.github.io/jekyll/update/2015/11/05/welcome-to-jekyll/</guid>
+        <link>https://pegadata.github.io/jekyll/update/2015/11/05/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://pegadata.github.io/jekyll/update/2015/11/05/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
